@@ -1,0 +1,17 @@
+
+.carousel-item{
+    height: 100vh;
+}
+
+img{
+    max-width: 100%;
+}
+.footer-bottom {
+    padding: 30px 0;
+    text-align: center;
+    background-color: #212429;
+    color: #fff;
+}
+.footer-bottom P{
+    margin-bottom: 0;
+}
